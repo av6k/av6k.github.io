@@ -1,0 +1,28 @@
+@charset "UTF-8";/*#disclamer_message {position:absolute;z-index:80000;width:99%;text-align:center;margin:20px 0 0 5px;padding:0;}
+*/#disclamer_message table {width:700px;text-align:center;padding-top:30px;}
+.disclamer_messagelogoimg {width:70%;margin-top:10px;}
+.button-wrapper-large .a-btn img {width:162px;height:70px;padding:10px 5px 21px 5px;}
+.indexfooter {padding:6px 0 28px;}
+.widgetsamung div {/*max-width:0px;*/}
+.dagoad {text-align:center;}
+.dagoad img {width:35%;padding:0 14px;}
+.dago3 {margin: 0 auto;width: 50%;}
+.dago3 img {width:100%;}
+
+@media (min-width:1200px) {.pchidden {display:none;}
+#disclamer_background {height:500px;}
+.button-wrapper-large {padding:10px 0;}
+}
+@media (min-width:768px) and (max-width:1200px) {.pchidden {display:none;}}
+@media only screen and (max-width:550px) {.dago2 {display:none;}}
+@media (min-width:200px) and (max-width:767px) {.phonehidden {display:none;}
+  #disclamer_message table {width:95%;text-align:center;padding-top:10px;}
+  .disclamer_messagelogoimg {width:85%;margin-top:0px;}
+  .button-wrapper-large .a-btn img {width:162px;height:70px;padding:10px 3px;}
+  .indexfooter {padding:10px 0;}
+  .dagoad img {width: 48%;padding: 0}
+  .dago3 {width:90%;} .dago3 img {width:100%;}
+  
+  .ad_footer {/*display: none;*/}
+}
+@media (min-width:200px) and (max-width:380px) {}
