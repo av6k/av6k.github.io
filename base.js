@@ -31,14 +31,13 @@ function createFieldElem(option) {
 const emails = ['av6k.com@gmail.com',];
 const newestUrls = [
 'https://m.av6ker.cc/app/',
-'https://av6ker.top/app/',
-'https://av6k17.top',
-'https://av6kc.one',
+'https://m.av6ker.lat/app/',
+'https://随意.av6k524.top',
+'https://随意.av6k523.top',
+'https://随意.av6k522.top',
+'https://随意.av6k517.top',
+'https://av6k444.top',
 'https://av6k333.top',
-'https://随意.av6k13.buzz',
-'https://随意.av6k14.buzz',
-'https://随意.av6k15.buzz',
-'https://随意.av6k16.buzz',
 ];
 const newestUrls2 = [
 'https://av6k.cc',
